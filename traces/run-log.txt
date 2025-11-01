@@ -1,0 +1,132 @@
+============================================================
+                    TEXT ADVENTURE GAME
+============================================================
+
+Welcome to the Text Adventure Game!
+Type 'help' for available commands.
+
+Your goal: Reach the Enemy Arena and defeat the enemy!
+------------------------------------------------------------
+
+Starting Chamber
+----------------
+You are in a dimly lit chamber. Stone walls surround you.
+There is a heavy wooden door to the north.
+A rusty key lies on the floor.
+A note sits on a dusty table.
+Exits: north
+> Starting Chamber
+----------------
+You are in a dimly lit chamber. Stone walls surround you.
+There is a heavy wooden door to the north.
+A rusty key lies on the floor.
+A note sits on a dusty table.
+Exits: north
+> You take the key.
+> The note reads: 'The password to unlock the door is: RAIYMBEK'
+> The door is locked.
+> The door unlocks with a click!
+> Treasury Room
+-------------
+You enter a grand treasury room with four ornate archways, each marked with a different symbol: a SWORD (north), a SHIELD (east), a CROWN (west), and a SKULL (south).
+Ancient text glows on the wall between them: 'Only courage leads forward.' All archways are open, inviting you to choose.
+Ancient text glows faintly on the wall between the archways.
+Archways: north (SWORD), east (SHIELD), west (CROWN), south (SKULL)
+> The inscription reads: 'Only courage leads forward. Choose wisely, for some paths lead backward.'
+> Enemy Arena
+-----------
+You enter a circular arena. A menacing enemy stands before you, ready to fight!
+Exits: south
+========================================
+COMBAT BEGINS!
+========================================
+Enemy Health: 10/10
+Your Health: 20/20
+
+Type 'attack' to fight!
+> You attack for 4 damage!
+Enemy Health: 6/10
+Enemy attacks for 4 damage!
+Your Health: 16/20
+> You attack for 1 damage!
+Enemy Health: 5/10
+Enemy attacks for 4 damage!
+Your Health: 12/20
+> You attack for 1 damage!
+Enemy Health: 4/10
+Enemy attacks for 1 damage!
+Your Health: 11/20
+> You attack for 4 damage!
+Enemy Health: 0/10
+========================================
+VICTORY!
+========================================
+You defeated the enemy! You win!
+Congratulations on completing the adventure!
+========================================
+============================================================
+                    TEXT ADVENTURE GAME
+============================================================
+
+Welcome to the Text Adventure Game!
+Type 'help' for available commands.
+
+Your goal: Reach the Enemy Arena and defeat the enemy!
+------------------------------------------------------------
+
+Starting Chamber
+----------------
+You are in a dimly lit chamber. Stone walls surround you.
+There is a heavy wooden door to the north.
+A rusty key lies on the floor.
+A note sits on a dusty table.
+Exits: north
+> Starting Chamber
+----------------
+You are in a dimly lit chamber. Stone walls surround you.
+There is a heavy wooden door to the north.
+A rusty key lies on the floor.
+A note sits on a dusty table.
+Exits: north
+> You take the key.
+> The note reads: 'The password to unlock the door is: SHADOW'
+> The door is locked.
+> The door unlocks with a click!
+> Treasury Room
+-------------
+You enter a grand treasury room with four ornate archways, each marked with a different symbol: a SWORD (north), a SHIELD (east), a CROWN (west), and a SKULL (south).
+Ancient text glows on the wall between them: 'Only courage leads forward.' All archways are open, inviting you to choose.
+Ancient text glows faintly on the wall between the archways.
+Archways: north (SWORD), east (SHIELD), west (CROWN), south (SKULL)
+> The inscription reads: 'Only courage leads forward. Choose wisely, for some paths lead backward.'
+> Enemy Arena
+-----------
+You enter a circular arena. A menacing enemy stands before you, ready to fight!
+Exits: south
+========================================
+COMBAT BEGINS!
+========================================
+Enemy Health: 10/10
+Your Health: 20/20
+
+Type 'attack' to fight!
+> You attack for 3 damage!
+Enemy Health: 7/10
+Enemy attacks for 3 damage!
+Your Health: 17/20
+> You attack for 3 damage!
+Enemy Health: 4/10
+Enemy attacks for 4 damage!
+Your Health: 13/20
+> You attack for 2 damage!
+Enemy Health: 2/10
+Enemy attacks for 3 damage!
+Your Health: 10/20
+> You attack for 5 damage!
+Enemy Health: 0/10
+========================================
+VICTORY!
+========================================
+You defeated the enemy! You win!
+Congratulations on completing the adventure!
+========================================
